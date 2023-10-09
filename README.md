@@ -39,7 +39,29 @@ La red Tor tiene en su diseño una arquitectura que proveé de mecanismos de pri
 
 Los 468 ciclos de prueba registrados mismos que posteriormente fueron verificados manualmente resultaron en 21 dependencias con URLs bloqueadas.
 
-Listado de dependencias con URLs bloqueadas
+# Listado de dependencias con URLs bloqueadas:
+
+- Consejería Jurídica del Ejecutivo Federal
+- Estrategia Digital Nacional
+- Fiscalía General de la República
+- Presidencia
+- Secretaria de Comunicaciones y Transportes
+- Secretario de Hacienda y Crédito Público
+- Secretaría de Agricultura y Desarrollo Rural
+- Secretaría de Bienestar
+- Secretaría de Cultura
+- Secretaría de Desarrollo Agrario, Territorial y Urbano
+- Secretaría de Educación Pública
+- Secretaría de Energía
+- Secretaría de Gobernación
+- Secretaría de Marina
+- Secretaría de Medio Ambiente y Recursos Naturales
+- Secretaría de Relaciones Exteriores
+- Secretaría de Salud
+- Secretaría de Turismo
+- Secretaría de la Defensa Nacional
+- Secretaría de la Función Pública
+- Secretaría del Trabajo y Previsión Social
 
 # Análisis
 
